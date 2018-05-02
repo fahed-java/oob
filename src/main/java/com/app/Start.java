@@ -9,7 +9,7 @@ public class Start {
         emp1.salary = 17320.75;
         emp1.master = "دكتوراه";
 
-   
+
 
         Employee emp2 = new Employee();
         emp2.id = 2;
